@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\vinay\\OneDrive\\Desktop\\Courses\\Build your own\\Build your own Database\\Build1.cpp",
+    "files.associations": {
+        "fstream": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
